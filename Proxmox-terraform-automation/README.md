@@ -4,9 +4,8 @@
 
 # Automate Proxmox with Terraform
 
-[![Thumbnail](https://img.youtube.com/vi/zrhLGAZXQeo/maxresdefault.jpg)](https://www.youtube.com/watch?v=zrhLGAZXQeo)
 
-## How I Automatically Deploy and Manage Proxmox VMs Using Terraform #20
+## How I Automatically Deploy and Manage Proxmox VMs Using Terraform
 
 ### File Structure
 
